@@ -1,3 +1,4 @@
+<!-- Test -->
 <aura:component>
     <ui:inputPhone aura:id="phone" label="phone" />
     <ui:button label="Show Phone" />
